@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecyclerView Animation</string>
+    <string name="lorem_ipsum">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy.</string>
+    <string name="one_title">Pak, China team up again, say UN</string>
+    <string name="one_desc">According to reports by Pakistan media, the country\'s ambassador to the UN, Maleeha Lodhi said that mechanisms like FATF (Financial Action Task Force) and 1267 Sanctions regimes (ISIL (Da\'esh) and Al-Qaida Sanctions Committee) should not be used as political tools by some to fulfil their own geopolitical goals</string>
+    <string name="two_title">Even peace deal might not see Afghanistan</string>
+    <string name="two_desc">Although the US and Taliban are conducting talks to give peace a chance in war-ravaged Afghanistan since last year, the US Special Inspector General for Afghanistan Reconstruction (SIGAR) has said in an alarming report on Thursday, March 28, that things do not look bright irrespective of a peace deal.</string>
+    <string name="three_title">Gusty wind makes man flies into air</string>
+    <string name="three_desc">Sometimes, a tragedy can look like a comedy can this incident that was witnessed by the bystanders in the Turkish city of Osmaniye qualifies as one of them. A video footage has recently gone viral on social media showing a man, trying to find himself a shelter in heavy wind, flies away with an umbrella.</string>
+    <string name="four_title">US denies spying on India\'s ASAT test</string>
+    <string name="four_desc">The Pentagon has strongly denied the reports that the US spied on India\'s anti-satellite or ASAT missile test by sending a reconnaissance aircraft from its base in Diego Garcia in the Indian Ocean to monitor the development. It, however, said that the United States was aware of India\'s first test-fire of an anti-satellite missile.</string>
+    <string name="five_title">Something unknown bit off this shark\’s</string>
+    <string name="five_desc">Trapman Bermagui or Jason recently went out fishing in his boat and found the head of a mako shark in the depths off the coast of Sydney, New South Wales. </string>
+    <string name="six_title">Venus, Mars and the Science around it</string>
+    <string name="six_desc">Which is the better half - men or women? Contrary to what most stand up comics have to say, when it comes to the intellect, they are both equal</string>
+    <string name="seven_title">Mallya\’s extradition moves forward</string>
+    <string name="seven_desc">The stage is set for a busy period of Indian extradition-related activity in the UK courts</string>
+    <string name="eight_title">Trump warns Russia to get troops out</string>
+    <string name="eight_desc">As the political crisis thickens in Venezuela with the arrival of Russian troops outside Caracas on Saturday, March 23, US President Donald Trump has asked the Kremlin to pull out its troops from the Latin American nation</string>
+    <string name="nine_title">China\’s Uighur Muslim headache</string>
+    <string name="nine_desc">China\'s mass detention of the Uighur Muslims was termed as unfortunate by US Secretary of State, Mike Pompeo. The statement comes in the wake of human rights activists accusing China of putting millions of Uighurs in detention camps.</string>
+    <string name="ten_title">India\’s anti-satellite test hasn\’t impre</string>
+    <string name="ten_desc">Indians might feel pleased after the country carried out \'Mission Shakti\' whereby it tested anti-satellite weapon from Odisha\'s APJ Abdul Kalam Island and became the fourth nation in the world with the capacity to destroy low-orbit satellites, but not all are happy, including some of its international friends.</string>
+    <string name="eleven_title">Mike Pompeo blasts China over treatment</string>
+    <string name="eleven_desc">United States Secretary of State Mike Pompeo on Wednesday alleged that China abuses over a million Muslims at home, but protects terror groups from UN sanctions.</string>
+</resources>
